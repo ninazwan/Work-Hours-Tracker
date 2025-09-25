@@ -19,7 +19,7 @@ This Excel tool tracks work hours for jobs with variable schedules, such as cons
 1. Enter the start and end times for each workday.
 2. If the work continues past midnight (e.g., from 16:00 to 3:00 the next day), type `1` in the **"Overnight"** column.
 3. Enter your hourly rate in the designated cell.
-4. Use the summary sheet to analyze monthly totals or daily patterns.
+4. Use the summary sheet to analyze monthly totals.
 
 ## Notes
 - A separate demo workbook is included as an example.
