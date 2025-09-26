@@ -24,3 +24,12 @@ This Excel tool tracks work hours for jobs with variable schedules, such as cons
 ## Notes
 - A separate demo workbook is included as an example.
 - Enable macros to allow automatic calculations.
+
+## Screenshots
+Below are example screenshots that demonstrate how the workbook works.  
+
+### Example 1 – One Month
+![Month](screenshots/january_ex.png)
+
+### Example 2 – Summary
+![Summary](screenshots/hours_analysis_ex.png)
